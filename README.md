@@ -1,4 +1,4 @@
-# fp-alu
+# fp_alu
 
 A parameterized floating point arithmetic unit written in SystemVerilog, targeting IEEE-754-style half (16-bit), single (32-bit), and double (64-bit) precision through a shared, configurable core.
 
