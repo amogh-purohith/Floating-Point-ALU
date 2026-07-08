@@ -1,4 +1,4 @@
-```markdown
+
 # fp-alu
 
 Parametric IEEE-754 floating point arithmetic unit written in SystemVerilog. Supports half (16-bit), single (32-bit), and double (64-bit) precision through a single configurable parameter.
