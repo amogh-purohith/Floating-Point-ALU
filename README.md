@@ -37,11 +37,4 @@ Precision is set via a package-level parameter and the exponent/mantissa widths 
 - Testbenches per module
 - End-to-end exception flag handling (overflow, underflow, inexact)
 
-## Contributing
 
-Issues and pull requests are welcome, including bug reports on rounding and classification edge cases.
-
-## License
-
-Add your license of choice here.
-```
