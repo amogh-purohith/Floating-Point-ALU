@@ -33,7 +33,7 @@ Precision is set via a package-level parameter and the exponent/mantissa widths 
 - Redesign and reimplement core modules (in progress)
 - Complete rounding logic in `fp_roundoff` and integrate it into `fp_add` and `fp_mul`
 - Complete `fp_alu` top-level integration and opcode dispatch
-- Division and square root modules
+- Division modules
 - Testbenches per module
 - End-to-end exception flag handling (overflow, underflow, inexact)
 
